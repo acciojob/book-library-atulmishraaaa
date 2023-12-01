@@ -48,14 +48,17 @@ h2{
 p{
 	color:#777777;
 }
-.button{
+.price-block{
 	width:100vw;
-	display:flex;
-	justify-content:center;
-	
-	
+	margin:auto;	
+	width:95%;
+	height:30px;
+	background-color:#2ecc71;
+	color:white;
+	border:none;
+	border-radius:3px;
 }
-.button button{
+.price-block{
 	width:95%;
 	height:30px;
 	background-color:#2ecc71;
