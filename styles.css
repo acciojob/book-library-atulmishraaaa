@@ -37,11 +37,15 @@ body{
 	display:flex;
 	justify-content:center;
 }
-h3,p{
+h2,p{
 	padding-left:10px;
+	
 }
-h3{
+h2{
 	font-size:18px;	
+}
+p{
+	color:#777777;
 }
 .button{
 	width:100vw;
@@ -53,7 +57,7 @@ h3{
 .button button{
 	width:95%;
 	height:30px;
-	background-color:#2ecc71;
+	background-color:rgb(46, 204, 113);
 	color:white;
 	border:none;
 	border-radius:3px;
