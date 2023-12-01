@@ -37,6 +37,9 @@ body{
 	display:flex;
 	justify-content:center;
 }
+.image img{
+	background-color:rgb(46, 204, 113);
+}
 h2,p{
 	padding-left:10px;
 	
@@ -57,7 +60,7 @@ p{
 .button button{
 	width:95%;
 	height:30px;
-	background-color:rgb(46, 204, 113);
+	background-color:#2ecc71;
 	color:white;
 	border:none;
 	border-radius:3px;
