@@ -37,9 +37,7 @@ body{
 	display:flex;
 	justify-content:center;
 }
-.image img{
-	background-color:rgb(46, 204, 113);
-}
+
 h2,p{
 	padding-left:10px;
 	
